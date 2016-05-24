@@ -1,0 +1,14 @@
+{
+    "name": "flarum/flarum",
+    "description": "Flarum for Hostinger Git Deploy",
+    "require": {
+        "flarum/flarum"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tobyzerner-redlockrepublic",
+            "email": "toby.zerner@gmail.com"
+        }
+    ]
+}
